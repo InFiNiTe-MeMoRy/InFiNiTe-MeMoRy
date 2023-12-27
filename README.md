@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Varadraj aka @InFiNiTe-MeMoRy
+- 👀 I’m interested in Backend Development and Machine Learning
+- 🌱 I’m currently learning Spring/Springboot and React.js to develop a full stack project
+- 📫 How to reach me: Email - patil98varad@gmail.com, LinkedIn - https://www.linkedin.com/in/varadraj-patil/
